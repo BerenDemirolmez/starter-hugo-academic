@@ -73,7 +73,7 @@ subtitle = ""
 
 
 ## Work in progress
-* Offshore issuance of NFC's international debt securities and intercompany lending
+* NFCs' offshore debt issuances and within-company loans
 * The geography of dollar debt assets (with [Agustín S. Bénétrix]((https://agustinbenetrix.org)), and Niall McInerney)
 * An enhanced and updated dataset for the currency composition of the international investment position (with [Agustín S. Bénétrix]((https://agustinbenetrix.org)), [Hiro Ito](https://web.pdx.edu/~ito/), and [Martin Schmitz](https://sites.google.com/tcd.ie/martinschmitz))
 
