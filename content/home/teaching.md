@@ -87,7 +87,7 @@ subtitle = ""
 * Spring 2020-2022: ECU11012 Introduction to Economics B (1st year course) [Davide Romelli](https://davideromelli.com)
 * Fall 2019-2021: ECU11011 Introduction to Economics A (1st year course) Lecturer [Tara Mitchell](https://sites.google.com/site/taralynnmitchell1/)
 
-### Middle East Techinal University
+### Middle East Technical University
 
 * Fall 2018- Spring 2019: Coordinator of Teaching Assistants
 * Fall 2018: ECON 206 Statistics for Economists II (2nd year course)
