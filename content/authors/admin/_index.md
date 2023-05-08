@@ -53,7 +53,7 @@ social:
 #  icon_pack: fab
 #  link: https://fosstodon.org/@christianoswald
 - icon: google-scholar
- icon_pack: ai
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=fEyZR-UAAAAJ&hl=en
 - icon: orcid
   icon_pack: fab
