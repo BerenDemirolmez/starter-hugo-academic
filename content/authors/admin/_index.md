@@ -99,6 +99,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am a PhD candidate in the [Department of Economics](https://www.tcd.ie/Economics/) at Trinity College Dublin, and affiliated with the [International Macro - TCD](https://www.tcd.ie/Economics/research/imtcd/). I earned a BA and MSc in Economics from [Middle East Technical University](https://www.metu.edu.tr).
+Welcome! I am a PhD candidate in the [Department of Economics](https://www.tcd.ie/Economics/) at Trinity College Dublin, and affiliated with [International Macro - TCD](https://www.tcd.ie/Economics/research/imtcd/). I earned a BA and MSc in Economics from [Middle East Technical University](https://www.metu.edu.tr).
 
 My research agenda focuses on the heterogeneity of external imbalances in relation to their asset classes, the currency of denomination, and geography. This includes, but is not limited to, the shock absorption role of external positions, currency compositions of the net international investment position, the geography of dollar debt assets, and non-financial corporations international debt issuance through offshore affiliates.
