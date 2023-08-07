@@ -69,7 +69,7 @@ subtitle = ""
 +++
 
 ## Peer-reviewed publications
-* The shock absorbing role of cross-border investments: net positions versus currency composition. (with [Agustin S. Benetrix](https://agustinbenetrix.org), and [Martin Schmitz](https://sites.google.com/tcd.ie/martinschmitz)) * Accepted for publication at Open Economies Review* [[PDF](https://www.tcd.ie/Economics/TEP/2021/TEP0421.pdf)]
+* The shock absorbing role of cross-border investments: net positions versus currency composition. (with [Agustin S. Benetrix](https://agustinbenetrix.org), and [Martin Schmitz](https://sites.google.com/tcd.ie/martinschmitz)) Accepted for publication at Open Economies Review [[PDF](https://www.tcd.ie/Economics/TEP/2021/TEP0421.pdf)]
 
 ## Working paper
 
