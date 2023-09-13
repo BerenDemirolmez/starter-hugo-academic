@@ -69,15 +69,16 @@ subtitle = ""
 +++
 
 ## Peer-reviewed publications
-* The shock absorbing role of cross-border investments: net positions versus currency composition. (with [Agustin S. Benetrix](https://agustinbenetrix.org), and [Martin Schmitz](https://sites.google.com/tcd.ie/martinschmitz)) Accepted for publication at Open Economies Review [[PDF](https://www.tcd.ie/Economics/TEP/2021/TEP0421.pdf)]
+* The shock absorbing role of cross-border investments: net positions versus currency composition. (with [Agustin S. Benetrix](https://agustinbenetrix.org), and [Martin Schmitz](https://sites.google.com/tcd.ie/martinschmitz)), Open Econ Rev, September 2023 [[PDF](https://doi.org/10.1007/s11079-023-09728-3)]
 
 ## Working paper
 
 * Offshore debt issuance, within-company loans and measured FDI: determinants and implications
+* Breaking down international financial integration: US dollar vs euro
 ## Work in progress
 
 * The geography of dollar debt assets (with [Agustín S. Bénétrix]((https://agustinbenetrix.org)), and Niall McInerney)
-* An enhanced and updated dataset for the currency composition of the international investment position 
+* An enhanced and updated dataset for the currency composition of the international investment position (with Agustín S. Bénétrix, Hiro Ito, Martin Schmitz)
 
 <!--(with [Agustín S. Bénétrix]((https://agustinbenetrix.org)), [Hiro Ito](https://web.pdx.edu/~ito/), and [Martin Schmitz](https://sites.google.com/tcd.ie/martinschmitz))-->
 
