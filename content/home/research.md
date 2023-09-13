@@ -73,7 +73,8 @@ subtitle = ""
 
 ## Working paper
 
-* Offshore debt issuance, within-company loans and measured FDI: determinants and implications
+* Offshore debt issuance, within-company loans and measured FDI: determinants and implications [[PDF](https://drive.google.com/file/d/1aV5eHHJq29upfy2XfWPbTuZrCzljlq5k/view?usp=sharing)]
+
 * Breaking down international financial integration: US dollar vs euro
 ## Work in progress
 
