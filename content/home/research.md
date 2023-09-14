@@ -69,13 +69,13 @@ subtitle = ""
 +++
 
 ## Peer-reviewed publications
-* The shock absorbing role of cross-border investments: net positions versus currency composition. (with [Agustin S. Benetrix](https://agustinbenetrix.org), and [Martin Schmitz](https://sites.google.com/tcd.ie/martinschmitz)), Open Econ Rev, September 2023 [Paper](https://doi.org/10.1007/s11079-023-09728-3)
+* The shock absorbing role of cross-border investments: net positions versus currency composition. (with [Agustin S. Benetrix](https://agustinbenetrix.org), and [Martin Schmitz](https://sites.google.com/tcd.ie/martinschmitz)), Open Econ Rev, September 2023 [[Paper](https://doi.org/10.1007/s11079-023-09728-3)]
 
 ## Working paper
 
-* Offshore debt issuance, within-company loans and measured FDI: determinants and implications [Paper](https://drive.google.com/file/d/1t1K3mxVv0UR6_px0oaJnZuUrTxBJ0zBI/view?usp=sharing)
+* Offshore debt issuance, within-company loans and measured FDI: determinants and implications [[Paper](https://drive.google.com/file/d/1t1K3mxVv0UR6_px0oaJnZuUrTxBJ0zBI/view?usp=sharing)]
 
-* Breaking down international financial integration: US dollar vs euro [Abstract](https://drive.google.com/file/d/15oRj6PQyDN2X0ssDwQIXHfeF0pXUV8yf/view?usp=share_link)
+* Breaking down international financial integration: US dollar vs euro [[Abstract](https://drive.google.com/file/d/15oRj6PQyDN2X0ssDwQIXHfeF0pXUV8yf/view?usp=share_link)]
 ## Work in progress
 
 * The geography of dollar debt assets (with [Agustín S. Bénétrix]((https://agustinbenetrix.org)), and Niall McInerney)
@@ -86,4 +86,4 @@ subtitle = ""
 
 
 ## Other work
-* Determinants of Non-core Liabilities in the Turkish Banking System (MSc Thesis, Middle East Technical University , 2017. Supervisor: Prof. Elif Akbostancı) [Paper](https://open.metu.edu.tr/handle/11511/26831)
+* Determinants of Non-core Liabilities in the Turkish Banking System (MSc Thesis, Middle East Technical University , 2017. Supervisor: Prof. Elif Akbostancı) [[Paper](https://open.metu.edu.tr/handle/11511/26831)]
