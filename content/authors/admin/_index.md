@@ -6,12 +6,12 @@ title: Beren Demirölmez
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Economist
 
 # Organizations/Affiliations
 organizations:
-- name: Trinity College Dublin
-  url: "https://www.tcd.ie"
+- name: Central Bank of Ireland
+  url: "https://www.centralbank.ie"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -19,14 +19,13 @@ organizations:
 interests:
 - International macroeconomics
 - International finance
-- Corporate finance
 
 
 education:
   courses:
   - course: Ph.D. in Economics
     institution: Trinity College Dublin, Ireland
-    year: 2023 (expected)
+    year: 2024
   - course: MSc in Economics
     institution: Middle East Technical University, Turkey
     year: 2017
@@ -45,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:demirlmb@tcd.ie'  # For a direct email link, use "mailto:test@example.org"/otherwise /#contact.
+  link: 'mailto:beren.demirolmez@centralbank.ie'  # For a direct email link, use "mailto:test@example.org"/otherwise /#contact.
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dmrlmz
@@ -99,6 +98,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am a PhD candidate in the [Department of Economics](https://www.tcd.ie/Economics/) at Trinity College Dublin, and affiliated with [International Macro - TCD](https://www.tcd.ie/Economics/research/imtcd/). I earned a BA and MSc in Economics from [Middle East Technical University](https://www.metu.edu.tr).
+Welcome! I am an economist in the Monetary Policy Division at the [Central Bank of Ireland](https://www.centralbank.ie), and affiliated with [International Macro - TCD](https://www.tcd.ie/Economics/research/imtcd/). I earned a PhD in Economics from [Trinity College Dublin](https://www.tcd.ie) and a BA and MSc in Economics from [Middle East Technical University](https://www.metu.edu.tr).
 
 My research agenda focuses on the heterogeneity of external imbalances in relation to their asset classes, the currency of denomination, and geography. This includes, but is not limited to, the shock absorption role of external positions, currency compositions of the net international investment position, the geography of dollar debt assets, and non-financial corporations international debt issuance through offshore affiliates.
