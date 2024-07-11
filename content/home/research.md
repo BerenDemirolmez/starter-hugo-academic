@@ -73,12 +73,13 @@ subtitle = ""
 
 ## Working paper
 
-* Offshore debt issuance, within-company loans and measured FDI: determinants and implications [[Paper](https://drive.google.com/file/d/1t1K3mxVv0UR6_px0oaJnZuUrTxBJ0zBI/view?usp=sharing)]
+* Offshore debt issuance, within-company loans and measured FDI: determinants and implications [[Paper](https://drive.google.com/file/d/1OKi417OCdaoB0GbGTSnPIQCb4waMvxTd/view?usp=sharing)]
 
-* Breaking down international financial integration: US dollar vs euro [[Abstract](https://drive.google.com/file/d/15oRj6PQyDN2X0ssDwQIXHfeF0pXUV8yf/view?usp=share_link)]
+* Breaking down international financial integration: Euro vs US Dollar [[Abstract](https://drive.google.com/file/d/1iGuNDMtVSCc34MerbsmySrtrguBG-0kq/view?usp=sharing)]
 ## Work in progress
 
-* The geography of dollar debt assets (with [Agustín S. Bénétrix]((https://agustinbenetrix.org)), and Niall McInerney)
+* The sectoral heterogeneity in the global currency exposure of Euro Area and US portfolio holdings (with [Agustín S. Bénétrix]((https://agustinbenetrix.org)), and Niall McInerney)
+* Portfolio adjustments in Ireland's cross-border positions: Investigating the financial sector during COVID-19 using micro-level data
 * An enhanced and updated dataset for the currency composition of the international investment position (with [Agustín S. Bénétrix](https://agustinbenetrix.org), [Hiro Ito](https://web.pdx.edu/~ito/), [Martin Schmitz](https://sites.google.com/tcd.ie/martinschmitz))
 
 <!--(with [Agustín S. Bénétrix]((https://agustinbenetrix.org)), [Hiro Ito](https://web.pdx.edu/~ito/), and [Martin Schmitz](https://sites.google.com/tcd.ie/martinschmitz))-->
