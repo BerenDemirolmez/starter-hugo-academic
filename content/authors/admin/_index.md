@@ -98,6 +98,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am an economist in the Monetary Policy Division at the [Central Bank of Ireland](https://www.centralbank.ie), and affiliated with [International Macro - TCD](https://www.tcd.ie/Economics/research/imtcd/). I earned a PhD in Economics from [Trinity College Dublin](https://www.tcd.ie) and a BA and MSc in Economics from [Middle East Technical University](https://www.metu.edu.tr).
+I am an economist in the Monetary Policy Division at the [Central Bank of Ireland](https://www.centralbank.ie), and affiliated with [International Macro - TCD](https://www.tcd.ie/Economics/research/imtcd/). I earned a PhD in Economics from [Trinity College Dublin](https://www.tcd.ie) and a BA and MSc in Economics from [Middle East Technical University](https://www.metu.edu.tr).
 
 My research agenda focuses on the heterogeneity of external imbalances in relation to their asset classes, the currency of denomination, and geography. This includes, but is not limited to, the shock absorption role of external positions, currency compositions of the net international investment position, the geography of dollar debt assets, and non-financial corporations international debt issuance through offshore affiliates.
